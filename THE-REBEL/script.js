@@ -67,6 +67,28 @@
                 readLink: "https://dn720004.ca.archive.org/0/items/lenin-the-state-and-revolution/Lenin%20The%20State%20And%20Revolution_text.pdf"
             },
 
+            {
+                title: "God and State",
+                author: "Mikhail Bakunin",
+                cover: "https://covers.openlibrary.org/b/oclc/5625760-L.jpg",    
+                readLink: "https://dn790001.ca.archive.org/0/items/Bakunin1920IshGodAndTheState/Bakunin%201920-ish%20God%20and%20the%20State.pdf"
+            },
+
+            {
+                title: "Reform or Revolution",
+                author: "Rosa Luxemborg",
+                cover: "https://covers.openlibrary.org/b/isbn/9380118295-L.jpg",
+                readLink: "https://dn710003.ca.archive.org/0/items/reform-or-revolution/C03-Reform-or-Revolution.pdf"
+                
+            }, 
+
+            {
+                title: "The Second Sex",
+                autor: "Simone de Beauvoir",
+                cover: "https://covers.openlibrary.org/b/oclc/651072581-L.jpg",
+                readLink: "https://dn721601.ca.archive.org/0/items/the-second-sex/The%20Second%20Sex.pdf"
+            }
+
 
         ];
 
@@ -122,7 +144,23 @@
                 image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Nelson_Mandela_and_the_Congressional_Black_Caucus.jpg",
                 bio: "A leader of the fight against apartheid whose long imprisonment became a global symbol of resistance against racial oppression.",
                 link: "https://en.wikipedia.org/wiki/Nelson_Mandela"
-            }
+            }, 
+
+            {
+                name: "Mahatma Gandhi",
+                image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+                bio: "The father of the Indian independence movement who pioneered nonviolent resistance as a powerful tool for social and political change.",
+                link: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+            }, 
+
+            {
+                name: "Ho Chi Minh",
+                image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/H%E1%BB%93_Ch%C3%AD_Minh_1950s.jpg",
+                bio: "The leader of the Vietnamese independence movement who fought against colonialism and imperialism to establish a unified Vietnam.",
+                link: "https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+            },
+
+        
 
 
         ];
